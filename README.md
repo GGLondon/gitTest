@@ -1,2 +1,5 @@
 # Recipes
-Paolo Perrotta Pluralsight course
+
+Apple pie
+Strawberry cheesecake
+Chocolate peacan pie
